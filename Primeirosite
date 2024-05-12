@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Histórias do Fluminense</title>
+    <style>
+        .meu-texto {
+            font-size:29px;
+            font-family: Arial, Helvetica, sans-serif;
+            color:darkgreen;
+        }
+        .segundo-texto {
+            font-size: 16px;
+            font-family: Arial, Helvetica, sans-serif
+        }
+        ul {
+            list-style-type: disc;
+        }
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="meu-texto"> Trajetória do Fluminense na Copa Libertadores da America </h1>
+    <p class="meu-texto"> <strong>Fluminense conquistou sua primeira <strong>taça de Libertadores na história</strong> e atingiu um recorde raro entre os campeões do torneio.</strong></p>
+
+    <ul>
+        <img width="510" src="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/11/05/130313566-5331027347308375e807do-2048x1152.jpg"
+    </ul>
+    
+
+    <br>
+
+    <p class="segundo-texto"> Durante a campanha desde a estreia até a final, o tricolor das Laranjeiras enfrentou ao todo <i><strong>cinto times campeões da Libertadores (River Plate, Argentino Juniors, Olimpia, Internacional e o imbativel Boca Juniors)</strong></i> recorde que até este ano pertencia somente ao River Plate de 2018 e o Flamengo de 2019; ambos também conquistaram a taça.</p>
+
+    <h2><small>Fase de grupos</small></h2>
+
+    <p class="segundo-texto">O Fluminense caiu no grupo d no sorteio da Libertadores, ao lado de <strong> River Plate, Sporting Cristal e The Strongest.</strong> O que começou de forma tranquila, com <i> três grandes vitórias nos três primeiros jogos</i> se encerrou no sufoco, isso porque o tricolor não venceu nenhuma das últimas três partidas e se viu num grupo onde todos os times poderiam se classifcar na última rodada.: Confira:</p>
+
+    <ul class="segundo-texto">
+        <li> Sporting Cristal 1 x 3 Fluminense (João Grimaldo; Cano 2x e Vitor Mendes) - Lima, Peru</li>
+        <li> Fluminense 1 x 0 The Strongest (Nino) -  Rio de Janeiro, Brasil</li>
+        <li> Fluminense 5 x 1 River Plate (Cano 3x, Arias 2x; Beltrán) - Rio de Janeiro, Brasil</li>
+        <li> The Strongest 1 x 0 Fluminense (Triverio) - La Paz, Bolívia </li>
+        <li> River Plate 2 x 0 (Beltrán e Barco) - Buenos Aires, Argentina</li>
+        <li> Fluminense 1 x 1 Sporting Cristal (Cano; Brenner) - Rio de Janeiro, Brasil</li>
+
+        <br>
+
+        <img width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0H-ADnSJllIXTka9wM0lhwLyjyobe2g1Axg&s">
+    </ul>
+
+    <h2><small> Oitavas de final</small></h2>
+    <p class="segundo-texto"> Nas oitavas, o <strong> Flumeinense</strong> enfrentou o Argentino Juniors, do treinador <strong><i>Gabriel Milito,</i></strong>, e passou um sufuco em um empate. No jogo de ida, o tricolor viu seu lateral e referência técnica ser expulso, <strong> Marcelo</strong> acabou lesionando de forma grave um jogador argentino e saiu de campo mais cedo, isso resultou mais para frente em suspensão do camisa 12 por <stong><i> TRÊS JOGOS</i></stong>. No Maracanã o Fluminense buscou o resultado nos últimos minutos com herói improvável.</p>
+
+    <ul class="segundo-texto">
+        <li> Argetinos Juniors 1 x 1 Fluminense (Gabriel Ávalos; Samuel Xavier) - Buenos Aires, Argentina</li>
+        <li> Fluminense 2 x 0 Argentino Juniors (Samuel Xavier e John Kennedy) - Rio de Janeiro, Brasil</li>
+        <img width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqxA32GM7AUia6FTTpEDqYg68BOCCofUVpTg&s"
+    </ul>
+
+    <h2><small> Quartas de Final</small></h2>
+
+    <p class="segundo-texto"> Na próxima fase, o Fluminense se deparou com um velho conhecido, o Olimpia. O time paraguaio eliminou o tricolor das laranjeiras na fase pré-eliminatória em 2022 e tinha acabado de deixar o <small> flamengo</small> para trás nas oitavas de final. O primeiro jogo no Maracanã, com vitória tranquila, e um baile de futebol na volta em Assunção, no temido estádio <strong><big> Defensores Del Chaco.</big></strong></p>
+
+    <ul class="segundo-texto">
+        <li> Fluminense 2 x 0 (André e Cano) - Rio de Janeiro, Brasil</li>
+        <li> Olimpia 1 x 3 Fluminense (Zabala; John Kennedy e Cano 2x) - Assunção, Paraguai</li>
+
+        <img width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFng84rzKo82-URunsiM2zSWIEpNF6kTaJYw&s"
+    </ul>
+
+    <h2><small>Semifinal</small></h2>
+    <p class="segundo-texto"> Na semifinal, a epopeia. Em dois jogos difíceis, o Fluminense não conseguiu fazer o resultado no Maracanã, muito por ter jogado quase 60 minutos com um Jogador a menos após expulsão de Samuel Xavier. No placar, empate de quatro gols. Na volta o roteiro de filme, o Inter vencia até os 81 minutos quando <big><strong> John Kennedy</strong></big> empatou a partida. Aos 87, <strong><i> <big> Germán Cano virou, e a história foi feita.</big></i></strong></p>
+    <blockquote> Nos intervalos dos tempos, em uma batalha internacional pelo silêncio dos clamores da torcida do Fluminense, ecoou a melodia envolvente de "Ta Escrito", entoada pelo Grupo Revelação. Contudo, os fervorosos adeptos do tricolor carioca não se abateram; ao contrário, transformaram essa melodia em um hino de vitória, uma epopeia entoada nos anais do futebol. Assim, ergueram-se, heróicos, em meio ao tumulto dos estádios, tecendo com o som das palmas e vozes uma narrativa de glória, onde cada nota ressoava como um estandarte empunhado rumo à conquista.</blockquote>
+
+    <h1><small>Final</small></h1>
+
+    <p class="segundo-texto">Euforia, apreensão e alívio. As três fases da final da Libertadores para os torcedores do Fluminense. Melhor tecnicamente do que o Boca Juniors, o tricolor abriu o placar com German Cano aos 36 minutos do primeiro tempo, e dominou toda a etapa inicial. No segundo, viu a equipe argentina começar a gostar do jogo, e em corte para dentro de Advincula, o gol do empate.</p>
+    <p class="segundo-texto">O gol do Boca Juniors parece ter saído apenas com um propósito: coroar um garoto que se permitiu dar a volta por cima, que servirá como exemplo para todos os jovens do meio do futebol brasileiro. <strong>John Kennedy</strong>atuou por 21 minutos, o suficiente para aos 9 da prorrogação anotar o gol do título do Fluminense. O tricolor das Laranjeiras, enfim, chegou ao tão sonhado posto de topo da América do Sul.</p>
+    <ul class="segundo-texto">
+        <li> Boca Juniors 1 x 2 Fluminense (Advincula; German Cano e John Kennedy) - Rio de Janeiro, Brasil
+        </li>
+        <img width="500" src="https://www.esportesdp.com.br/static/app/noticia_157970175445/2023/11/04/15920/20231104200228614445o.jpeg">
+    </ul> 
+</body>
+</html>
